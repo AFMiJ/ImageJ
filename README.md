@@ -1,2 +1,2 @@
 # ImageJ
-ImagJ macros
+ImageJ macros
